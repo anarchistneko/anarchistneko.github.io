@@ -1,6 +1,6 @@
 html {
     background-color: #B178B2;
-    padding: 0px;
+    padding-top: 30px;
 }
 body {
     margin: 0 auto;
@@ -278,5 +278,5 @@ canvas {
 }
 
 div.reference_list {
-  margin-bottm:1.5em
+  margin-bottom:1.5em
 }
