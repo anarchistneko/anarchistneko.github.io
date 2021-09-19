@@ -1,6 +1,5 @@
 html {
     background-color: #B178B2;
-    padding-top: 30px;
 }
 body {
     margin: 0 auto;
@@ -8,6 +7,7 @@ body {
     max-width: 1300px;
     min-height: 90vh;
     padding: 0em;
+    padding-top: 30px;
     padding-bottom:4em;
     background-color: #ddd;
     border-color: #f6eff6;
