@@ -32,7 +32,7 @@ ol li, dd {
 li {
     margin-left: 1.5em;
 }
-span.reference {
+p.reference {
     display:inline-block;
     text-indent: -2em;
     margin-left: 2em;
@@ -85,7 +85,7 @@ h3 {
         margin: 1em auto;
         font-size: 1.2em;
     }
-    span.reference {
+    p.reference {
         font-size: 0.8em;
         text-indent: -3em;
         margin-left: 3em;
