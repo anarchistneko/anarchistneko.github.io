@@ -50,18 +50,12 @@ h1.top {
     padding-bottom:0.5em;
 }
 h2 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     text-decoration: underline;
 }
-h2.center {        
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;                   
-    text-align: center;
-}
 h3 {
-    font-size: 1em;
+    font-size: 1.2em;
     margin-bottom: 0;
-    text-align: left;
     font-weight:bold;
 }
 @media screen and (min-width: 800px) {
@@ -90,18 +84,12 @@ h3 {
         text-indent: -3em;
         margin-left: 3em;
     }
-    h1 {
-        padding-bottom: 0.8em;
-    }
-    h1.top {
-        padding-top: 0.2em;
-        font-size: 3.5em;
-    }
-    h2 {
+    h1, h2, h3 {
         margin-bottom: 0.5em;
-        text-align: left;
+        margin-top: 0.5em;
     }
 }
+
 a {
     color: #cd59cf;
     font-family: inherit;
@@ -290,5 +278,5 @@ canvas {
 }
 
 .reference_list {
-  padding-bottm:1.5em
+  margin-bottm:1.5em
 }
