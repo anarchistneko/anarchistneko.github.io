@@ -25,6 +25,7 @@ dt, dd, p {
 }
 ul, ol{
     list-style-type: none;
+    font-size:0.8em;
 }
 ol li, dd {
     margin-bottom: 12pt;
@@ -125,67 +126,6 @@ img.center {
     margin: -2px auto;
     cursor: pointer;
 }
-.button:hover, .button:focus { background: #154a19; }
-.stronglyAgree { background: #1b5e20; }
-.stronglyAgree:hover, .stronglyAgree:focus { background: #154a19; }
-.agree { background: #4caf50; }
-.agree:hover, .agree:focus { background: #29942e; }
-.neutral { background: #949494; }
-.neutral:hover, .neutral:focus { background: #656565; }
-.disagree { background: #f44336; }
-.disagree:hover, .disagree:focus { background: #d6271a; }
-.stronglyDisagree { background: #b71c1c; }
-.stronglyDisagree:hover, .stronglyDisagree:focus { background: #a00e0e; }
-.start {
-    background-color: #B178B2;
-    color: #f6eff6;
-    font-size: 2em;
-    line-height: 1.2em;
-}
-.start:hover, .start:focus { background: #865D86; }
-.small_button, .small_button_off {
-    background-color: #333;
-    border: none;
-    border-radius: 0.5em;
-    color: #f6eff6;
-    padding: 8pt;
-    width: 10%;
-    min-width: 100pt;
-    text-align: center;
-    text-decoration: none;
-    display: block;
-    font-size: 0.9em;
-    margin: -2px auto;
-    cursor: pointer;
-    line-height: 1.2em;
-}
-.small_button_off {
-    background-color: #ddd;
-    color: #888;
-    border: 2px solid #888;
-    cursor: not-allowed;
-    margin: -4px auto;
-    line-height: 1.2em;
-}
-.small_button:hover, .small_button:focus { 
-    background: #111;
-}
-.question_wrapper {
-    margin: 0.5em auto;
-    width: 90%;
-    max-width: 40em;
-    min-width: 300px;
-    min-height: 144pt;
-    background-color: #f6eff6;
-    padding: 1em;
-    border-radius: 16pt;
-    border-width: 0.15em;
-    border-color: #444;
-    border-style: solid;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 .block {
     display: block
 }
@@ -206,15 +146,12 @@ img.center {
 }
 .section-wrapper {
     width:100%;
-    padding-top:2.5em;
+    padding-top:2em;
     padding-left: auto;
     padding-right:auto;
 }
 .nopadding_section-wrapper {
     width:100%;
-    padding-top:2.5em;
-    padding-left: auto;
-    padding-right:auto;
 }                            
 .desc_wrapper {
     width:100%;
@@ -257,7 +194,7 @@ img.center {
     }    
     .nopadding_section-wrapper,.section-wrapper {
         display: block;
-        padding-top: 1.5em;
+        padding-top: 3em;
     }
 }
 span.weight-300 {
