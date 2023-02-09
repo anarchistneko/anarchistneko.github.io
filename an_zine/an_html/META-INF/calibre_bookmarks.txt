@@ -1,4 +1,0 @@
-encoding=json+base64:
-W3sicG9zIjogImVwdWJjZmkoLzgvMi80LzMwLzE6MTIzKSIsICJwb3NfdHlwZSI6ICJlcHViY2ZpIiwg
-InRpbWVzdGFtcCI6ICIyMDIzLTAyLTA5VDA2OjA5OjEwLjAwMjkyOCswMDowMCIsICJ0eXBlIjogImxh
-c3QtcmVhZCJ9XQ==
