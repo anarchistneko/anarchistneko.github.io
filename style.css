@@ -28,6 +28,7 @@ body {
     justify-content:center;
     display:flex;
     justify-content:space-between;
+        flex-wrap:wrap;
 }
 
 .section_wrapper {
