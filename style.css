@@ -19,11 +19,6 @@ body {
     font-size: 12px;
     font-family: 'Atkinson Hyperlegible', 'Noto Sans JP', sans-serif;
 }
-big-wrapper {
-    margin:auto;
-    padding: auto;
-    display:inline-block;
-}
 section-wrapper {
     margin:auto;
     padding: auto;
@@ -54,7 +49,6 @@ p.news {
 }
 .news_wrapper{
     margin:auto;
-    display:inline-block;
     font-size: 0.8em;
      height: 20vh;
      overflow-y: scroll;
