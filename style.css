@@ -25,6 +25,7 @@ dt, dd, p {
 }
 ul, ol{
     list-style-type: none;
+    font-size: 1em;    
 }
 ol li, dd {
     margin-bottom: 12pt;
