@@ -45,6 +45,13 @@ p.news {
     margin-left: 2em;
     display:inline-block;
     font-size: 0.8em;
+     height: 20vh;
+     overflow-y: scroll;
+    }
+
+    #contents {
+      background-color: cadetblue;
+    }
 }
 
 p.reference {
