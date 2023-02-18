@@ -19,6 +19,11 @@ body {
     font-size: 12px;
     font-family: 'Atkinson Hyperlegible', 'Noto Sans JP', sans-serif;
 }
+big-wrapper {
+    margin:auto;
+    padding: auto;
+    max-width: 600px
+}
 dt, dd, p {
     line-height: 1.5;
     color: #444;
