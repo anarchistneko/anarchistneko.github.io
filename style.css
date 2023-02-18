@@ -22,7 +22,7 @@ body {
 section_wrapper {
     margin:auto;
     padding: auto;
-    max-width: 600px;
+    max-width: 550px;
     display:inline-block;
 }
 dt, dd, p {
