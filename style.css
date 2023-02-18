@@ -23,16 +23,19 @@ body {
     margin:auto;
     padding: auto;
     width:90%;
+}
+.flex{
     justify-content:center;
     display:flex;
-    justify-content:center;
+    justify-content:space-between;
 }
+
 .section_wrapper {
     margin:auto;
     padding: auto;
     width:90%;
     max-width: 400px;
-    display:inline-block;
+
 }
 .news_wrapper{
     margin:auto;
