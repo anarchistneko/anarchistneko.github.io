@@ -44,9 +44,6 @@ p.news {
     display:inline-block;
     font-size: 0.8em;
 }
-.main_wrapper{
-    max-width:600px
-}
 .news_wrapper{
     margin:auto;
     font-size: 0.8em;
