@@ -47,6 +47,7 @@ p.news {
 .news_wrapper{
     margin:auto;
     font-size: 0.8em;
+    width: 90%;
      height: 20vh;
      overflow-y: scroll;
     background-color:  #ADD8E6;
