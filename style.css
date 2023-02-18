@@ -22,12 +22,13 @@ body {
 big-wrapper {
     margin:auto;
     padding: auto;
-    max-width: 600px
+    display:inline-block;
 }
 section-wrapper {
     margin:auto;
     padding: auto;
-    max-width: 600px
+    max-width: 600px;
+    display:inline-block;
 }
 dt, dd, p {
     line-height: 1.5;
