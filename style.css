@@ -23,7 +23,7 @@ body {
     margin:auto;
     padding: auto;
     width:90%;
-      align-items: flex-start;
+    justify-content:center;
 }
 .section_wrapper {
     margin:auto;
