@@ -7,7 +7,7 @@ body {
     width: 95%;
     max-width: 1300px;
     min-height: 90vh;
-    padding: 0em;
+    padding: auto;
     padding-top: 4em;
     padding-bottom:4em;
     background-color: #ddd;
@@ -42,7 +42,8 @@ p.news {
     max-width:600px
 }
 .news_wrapper{
-    margin-left: 2em;
+    padding-left: 2em;
+    margin:auto;
     display:inline-block;
     font-size: 0.8em;
      height: 20vh;
