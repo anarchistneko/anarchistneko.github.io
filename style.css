@@ -38,6 +38,9 @@ p.news {
     display:inline-block;
     font-size: 0.8em;
 }
+.main_wrapper{
+    max-width:600px
+}
 .news_wrapper{
     margin-left: 2em;
     display:inline-block;
@@ -67,6 +70,7 @@ h3 {
     margin-bottom: 0;
     font-style: italic;
 }
+
 @media screen and (min-width: 800px) {
     body {
         padding-left: 1em;
