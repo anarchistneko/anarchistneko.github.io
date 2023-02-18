@@ -38,6 +38,12 @@ p.news {
     display:inline-block;
     font-size: 0.8em;
 }
+.news_wrapper{
+    margin-left: 2em;
+    display:inline-block;
+    font-size: 0.8em;
+}
+
 p.reference {
     display:inline-block;
     text-indent: -2em;
