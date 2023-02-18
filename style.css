@@ -24,6 +24,11 @@ big-wrapper {
     padding: auto;
     max-width: 600px
 }
+section-wrapper {
+    margin:auto;
+    padding: auto;
+    max-width: 600px
+}
 dt, dd, p {
     line-height: 1.5;
     color: #444;
