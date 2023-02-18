@@ -24,6 +24,8 @@ body {
     padding: auto;
     width:90%;
     justify-content:center;
+    display:flex;
+    justify-content:center;
 }
 .section_wrapper {
     margin:auto;
@@ -31,7 +33,6 @@ body {
     width:90%;
     max-width: 400px;
     display:inline-block;
-      align-items: flex-start;
 }
 .news_wrapper{
     margin:auto;
