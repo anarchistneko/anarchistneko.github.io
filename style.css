@@ -52,16 +52,12 @@ p.news {
     max-width:600px
 }
 .news_wrapper{
-    padding-left: 2em;
     margin:auto;
     display:inline-block;
     font-size: 0.8em;
      height: 20vh;
      overflow-y: scroll;
-    }
-
-    #contents {
-      background-color: cadetblue;
+    background-color:  #ADD8E6;
     }
 }
 
