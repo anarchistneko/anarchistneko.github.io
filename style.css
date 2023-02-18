@@ -19,7 +19,7 @@ body {
     font-size: 12px;
     font-family: 'Atkinson Hyperlegible', 'Noto Sans JP', sans-serif;
 }
-section-wrapper {
+section_wrapper {
     margin:auto;
     padding: auto;
     max-width: 600px;
