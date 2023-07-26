@@ -23,6 +23,7 @@ body {
     margin:auto;
     padding: auto;
     width:95%;
+    padding-top:4em;
 }
 .flex{
     justify-content:center;
@@ -36,7 +37,7 @@ body {
     padding: auto;
     width:90%;
     min-width: 400px;
-    max-width: 500px
+    max-width: 900px
 }
 .news_wrapper{
     margin:auto;
