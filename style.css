@@ -28,13 +28,13 @@ body {
     justify-content:center;
     display:inline-block;
     justify-content:space-between;
-        flex-wrap:wrap;
+    flex-wrap:wrap;
 }
 
 .section_wrapper {
     margin:auto;
     padding: auto;
-    width:40%;
+    width:90%;
     min-width: 400px;
     max-width: 600px
 }
@@ -45,7 +45,8 @@ body {
      height: 20vh;
      overflow-y: scroll;
     background-color:  #ADD8E6;
-        min-width: 400px;
+     min-width: 400px;
+     max-width: 600px
 }
 dt, dd, p {
     line-height: 1.5;
