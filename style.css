@@ -54,7 +54,7 @@ body {
 dt, dd, p {
     line-height: 1.5;
     color: #444;
-    padding-top: 1em;
+    margin-top: 0.5em;
 }
 ul, ol{
     list-style-type: none;
