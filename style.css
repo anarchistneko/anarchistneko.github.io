@@ -38,6 +38,8 @@ body {
     width:90%;
     min-width: 350px;
     max-width: 900px
+    padding-top: 2em;
+    padding-bottom:2em;
 }
 .news_wrapper{
     margin:auto;
@@ -52,6 +54,7 @@ body {
 dt, dd, p {
     line-height: 1.5;
     color: #444;
+    padding-top: 1em;
 }
 ul, ol{
     list-style-type: none;
