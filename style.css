@@ -36,7 +36,7 @@ body {
     margin:auto;
     padding: auto;
     width:90%;
-    min-width: 400px;
+    min-width: 350px;
     max-width: 900px
 }
 .news_wrapper{
@@ -46,8 +46,8 @@ body {
      height: 20vh;
      overflow-y: scroll;
     background-color:  #ADD8E6;
-     min-width: 400px;
-     max-width: 600px
+     min-width: 350px;
+     max-width: 900px
 }
 dt, dd, p {
     line-height: 1.5;
