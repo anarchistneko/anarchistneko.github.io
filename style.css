@@ -11,6 +11,7 @@ body {
     padding-top: 4em;
     padding-bottom:0em;
     background-color: #ddd;
+    color: #444;
     border-color: #f6eff6;
     border-left-style: solid;
     border-right-style: solid;
@@ -66,7 +67,6 @@ body {
 }
 dt, dd, p {
     line-height: 1.5;
-    color: #444;
     margin-top: 0.5em;
 }
 ul, ol{
@@ -95,10 +95,13 @@ p.reference {
     margin-left: 2em;
     font-size: 0.8em;
 }
+p.indent {
+    text-indent: 1em;
+}
 h1, h2, h3 {
-    color: #444;
+
     text-align: center;
-    padding-bottom: 1.2em;
+
 }
 h1 {
     font-size:1.5em;    
@@ -129,7 +132,7 @@ h3 {
     dt, dd, p {
         line-height: 1.5;
     }
-    ol li, p.quote {
+    ol li, ul li, p.quote {
         margin-left: 3em;
     }
     p.quote {
