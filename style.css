@@ -41,8 +41,9 @@ body {
     padding-top: 1em;
     padding-bottom:2em;
     border-bottom: 1px solid;
-
+    border-bottom-color: #999;
 }
+
 .end_wrapper {
     margin:auto;
     padding: auto;
@@ -57,11 +58,11 @@ body {
     margin:auto;
     font-size: 0.8em;
     width: 90%;
-     height: 20vh;
-     overflow-y: scroll;
+    height: 20vh;
+    overflow-y: scroll;
     background-color:  #ADD8E6;
-     min-width: 350px;
-     max-width: 900px
+    min-width: 350px;
+    max-width: 900px
 }
 dt, dd, p {
     line-height: 1.5;
@@ -110,6 +111,11 @@ h3 {
     font-size: 1em;
     margin-bottom: 0;
     font-style: italic;
+}
+
+.zine section_wrapper{
+    border-top: 0.5px;
+    border-top-color: #CCC;
 }
 
 @media screen and (min-width: 800px) {
