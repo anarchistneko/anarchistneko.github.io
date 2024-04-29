@@ -5,7 +5,7 @@ html {
 body {
     margin: 0 auto;
     width: 95%;
-    max-width: 1300px;
+    max-width: 1000px;
     min-height: 90vh;
     padding: auto;
     padding-top: 4em;
@@ -103,7 +103,7 @@ h3 {
         padding-right:1em;
         padding-top:4em;
         border-width: 1em;
-        font-size: 22px;
+        font-size: 18px;
     }
     dt, dd, p {
         line-height: 1.5;
