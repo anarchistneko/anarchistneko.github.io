@@ -9,7 +9,7 @@ body {
     min-height: 90vh;
     padding: auto;
     padding-top: 4em;
-    padding-bottom:1em;
+    padding-bottom:0em;
     background-color: #ddd;
     border-color: #f6eff6;
     border-left-style: solid;
@@ -38,7 +38,7 @@ body {
     width:90%;
     min-width: 350px;
     max-width: 900px;
-    padding-top: 1em;
+    padding-top: 0.5em;
     padding-bottom:2em;
     border-bottom: 1px solid;
     border-bottom-color: #999;
