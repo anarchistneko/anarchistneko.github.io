@@ -69,6 +69,10 @@ dt, dd, p {
     line-height: 1.5;
     margin-top: 0.5em;
 }
+dt{
+     font-weight: bold;
+}
+
 ul, ol{
     list-style-type: none;
     font-size: 1em;    
@@ -76,7 +80,6 @@ ul, ol{
 ol li, dd {
     margin-bottom: 12pt;
     margin-left: 1.5em;
-    font-weight: bold;
 }
 li {
     margin-left: 1.5em;
@@ -174,5 +177,6 @@ img.center {
 
 .block {
     display: block
+
 
 
