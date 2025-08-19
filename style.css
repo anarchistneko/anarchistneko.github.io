@@ -76,6 +76,7 @@ ul, ol{
 ol li, dd {
     margin-bottom: 12pt;
     margin-left: 1.5em;
+    font-style: bold;
 }
 li {
     margin-left: 1.5em;
@@ -173,3 +174,4 @@ img.center {
 
 .block {
     display: block
+
